@@ -1,0 +1,6 @@
+shiny
+pandas
+numpy
+joblib
+requests
+scikit-learn
